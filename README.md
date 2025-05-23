@@ -1,0 +1,1 @@
+Credit: https://github.com/thebertster/automation-demo/tree/master/terraform/gslb_service
